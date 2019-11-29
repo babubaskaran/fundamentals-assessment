@@ -18,4 +18,4 @@
 
 ![image](https://user-images.githubusercontent.com/48861486/69892901-6430bf00-1302-11ea-95d2-138078a3eff3.png)
 
-
+On the above the first row is of Total Bill and 2nd row is for Tip and 3rd one is Size on Y axis and X axis has the same Total bill, Tip & size
