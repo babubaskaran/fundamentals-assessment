@@ -16,6 +16,6 @@
 
 * Here are the some of the descriptive statistics and plots output which is the result of above program.
 
-
+![image](https://user-images.githubusercontent.com/48861486/69892901-6430bf00-1302-11ea-95d2-138078a3eff3.png)
 
 
